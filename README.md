@@ -1,6 +1,6 @@
 <h1><img align="left" src="https://cdn.discordapp.com/emojis/552927506957729802.gif" width="40">Hi there</h1>
 
-<h1>I Have no idea...</h1>
+I Have done nothing...
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
