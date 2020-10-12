@@ -1,6 +1,6 @@
 <h1><img align="left" src="https://cdn.discordapp.com/emojis/552927506957729802.gif" width="40">Hi there</h1>
 
-I Have done nothing...
+<h>Why is this a place... for.. sharing source code... GENIUS!</h>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,9 +8,6 @@ I Have done nothing...
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bdidk235&layout=compact&theme=onedark">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bdidk235&layout=compact&theme=onedark">
   </a>
 </p>
 
