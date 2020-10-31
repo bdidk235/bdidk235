@@ -1,6 +1,8 @@
 <h1><img align="left" src="https://cdn.discordapp.com/emojis/552927506957729802.gif" width="40">Hi there</h1>
 
-<h>Why is this a place... for.. sharing source code... GENIUS!</h>
+<h>Hey ugh... idk, w-wh, whyy you here! maybe coding or something?</h>
+
+<h>I think u think I suck at coding... yeah I suck whatever</h>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
