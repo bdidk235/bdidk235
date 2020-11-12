@@ -1,8 +1,6 @@
-<h1><img align="left" src="https://cdn.discordapp.com/emojis/552927506957729802.gif" width="40">Hi there</h1>
+<h1><img align="left" src="https://cdn.discordapp.com/emojis/552927506957729802.gif" width="40">H</h1>
 
-<h>Hey ugh... idk, w-wh, whyy you here! maybe coding or something?</h>
-
-<h>I think u think I suck at coding... yeah I suck whatever</h>
+Who Ever goes last... idk lets think smarter
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,8 +17,10 @@
   </a>
 </p>
 
-Here are some ideas to get you started:
+No one:
 
-- Who Am I: A guy who wants to "learn" how to code.
-- Why Github? Maybe soon Im Still "Learning"
-- Fun fact: I do be funny tho...
+- frrr
+- x_x (R.I.P)
+- Foxi
+- Mr_nooby
+- TheManCoolPants
