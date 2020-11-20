@@ -17,10 +17,7 @@ Who Ever goes last... idk lets think smarter
   </a>
 </p>
 
-No one:
+Fun Facts:
 
-- frrr
-- x_x (R.I.P)
-- Foxi
-- Mr_nooby
-- TheManCoolPants
+- H
+- No Men
