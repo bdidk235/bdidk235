@@ -1,6 +1,6 @@
 <h1><img align="left" src="https://cdn.discordapp.com/emojis/552927506957729802.gif" width="40">H</h1>
 
-Who Ever goes last... idk lets think smarter
+"New Update: Time"
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,5 +19,4 @@ Who Ever goes last... idk lets think smarter
 
 Fun Facts:
 
-- H
-- No Men
+- ¯\_(ツ)_/¯
